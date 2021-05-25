@@ -15,12 +15,12 @@
   <li> 🔗 Do you want to get in touch? Contact me on my <a href="https://www.linkedin.com/in/vasilache-andrei-741a1a158/">LinkedIn profile</a></li>
 </ul>
 
-<h2>My expertise: <h2>
+<h2> ⏳⌛ My Github profile expertise (Just a part of the real one) <h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreivasilache&layout=compact">
 </a>
   
-<h2>GitHub profile stats:<h2>
+<h2>🚀🧐 GitHub profile stats:<h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=andreivasilache&show_icons=true&theme=dark&count_private=true">
 </a>
