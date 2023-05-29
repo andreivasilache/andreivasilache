@@ -8,7 +8,7 @@
 
 <ul>
   <li> 🏙 From Suceava, Romania 🟦🟨🟥 </li>
-  <li> 💬 Ask me about <b>Web Development, JavaScript, StackOverflow :D</b> </li>
+  <li> 💬 Ask me about <b>Web Development, TypeScript, JavaScript, StackOverflow :D</b> </li>
   <li> 🏢 I’m currently working as a Software Engineer on <a href="https://assist-software.net/">ASSIST SOFTWARE</a></li>
   <li> 👀 Do you want to see my portfolio? I'll leave a <a href="https://va-portfolio.web.app/">link </a></li> 
   <li> 😄 I like coding, learning new things, and let's not forget about coffee☕</li>
